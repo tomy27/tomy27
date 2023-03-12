@@ -2,7 +2,7 @@
 
 hi, i'm [Tamas Kereszturi](https://https://www.linkedin.com/in/tamaskereszturi/), a passionate fullstack web developer.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
   
 - 📫 How to reach me: [tamas.kereszturi1@gmail.com](mailto:tamas.kereszturi1@gmail.com);
 - 🔗 My website: well, that is under construction! :sweat_smile:
