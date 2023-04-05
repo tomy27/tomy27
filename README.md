@@ -5,7 +5,7 @@ I'm [Tamas Kereszturi](https://https://www.linkedin.com/in/tamaskereszturi/), a 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
   
 - 📫 How to reach me: [tamas.kereszturi1@gmail.com](mailto:tamas.kereszturi1@gmail.com);
-- 🔗 My website: well, that is under construction! :sweat_smile:
+- 🔗 My website: [tamaskereszturi.com](https://www.tamaskereszturi.com)
  
  <br>
 
