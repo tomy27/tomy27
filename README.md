@@ -14,10 +14,3 @@ I'm [Tamas Kereszturi](https://https://www.linkedin.com/in/tamaskereszturi/), a 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,sqlite,py,django,flask,git,github,c,arduino,vscode&perline=7)](https://skillicons.dev)
 
 <br>
-
-
-**find me elsewhere:**
-
-<a href="https://www.linkedin.com/in/tamaskereszturi/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
