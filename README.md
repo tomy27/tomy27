@@ -1,6 +1,6 @@
 # Hi, I'm glad you are here! 😎
 
-I'm [Tamas Kereszturi](https://https://www.linkedin.com/in/tamaskereszturi/), a passionate fullstack web developer.
+I'm [Tamas Kereszturi](https://https://www.linkedin.com/in/tamaskereszturi/), a passionate fullstack developer.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
   
