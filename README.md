@@ -10,5 +10,5 @@ I'm [Tamas Kereszturi](https://https://www.linkedin.com/in/tamaskereszturi/), a 
 [![My Skills](https://skillicons.dev/icons?i=py,django,flask,mysql,elasticsearch,git,github,gitlab,docker,aws,js,html,css,react,bootstrap,vscode,&perline=16)](https://skillicons.dev)
 
 <div style="text-align: center;">
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="auto" height="auto" style="display: flex; justify-content: center; "/> 
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="auto" style="display: flex; justify-content: center; "/> 
 </div>
