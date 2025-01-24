@@ -1,6 +1,6 @@
 # Hi, I'm glad you are here! 😎
 
-I'm [Tamas Kereszturi](https://https://www.linkedin.com/in/tamaskereszturi/), a passionate fullstack developer.
+I'm [Tamas Kereszturi](https://https://www.linkedin.com/in/tamaskereszturi/), a software developer (what a surprise).
   
 - 📫 How to reach me: [tamas.kereszturi1@gmail.com](mailto:tamas.kereszturi1@gmail.com);
 - 🔗 My website: [tamaskereszturi.com](https://www.tamaskereszturi.com)
